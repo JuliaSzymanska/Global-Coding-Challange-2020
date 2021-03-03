@@ -1,32 +1,3 @@
-# def findSuspiciousUserId(questionAndAnswerListOfList):
-#     suspicious = [False] * (max(max(x) for x in questionAndAnswerListOfList) + 1)
-#     for i in range(len(questionAndAnswerListOfList)):
-#         for value in questionAndAnswerListOfList[i + 1:]:
-#             if questionAndAnswerListOfList[i][0] in value and value[0] in questionAndAnswerListOfList[i]:
-#                 suspicious[value[0]] = True
-#                 suspicious[questionAndAnswerListOfList[i][0]] = True
-#     actual = 0
-#     previous = -1
-#     while previous < actual:
-#         previous = actual
-#         for ints in questionAndAnswerListOfList:
-#             if not suspicious[ints[0]]:
-#                 i = 0
-#                 for j in ints[1:]:
-#                     if suspicious[j]:
-#                         i += 1
-#                         if i == 2:
-#                             suspicious[ints[0]] = True
-#                             actual += 1
-#                             break
-#     string = []
-#     for i in range(1, len(suspicious)):
-#         if suspicious[i]:
-#             string.append(str(i))
-#             string.append(",")
-#     return "".join(string[:-1])
-
-
 def findSuspiciousUserId(questionAndAnswerListOfList):
     string = [""] * (max(max(x) for x in questionAndAnswerListOfList) + 1)
     for i in range(len(questionAndAnswerListOfList)):
