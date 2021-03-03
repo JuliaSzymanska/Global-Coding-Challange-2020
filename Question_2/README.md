@@ -1,4 +1,4 @@
-# [Question 2 - Profit Maximization - Extended](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/.questions/Global_Coding_Challenge_2.pdf)
+# Question 2 - Profit Maximization - Extended
 
 Emilia can now use multiple buy and sell operations over a given period of time.
 

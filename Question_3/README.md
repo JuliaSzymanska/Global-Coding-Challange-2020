@@ -1,4 +1,4 @@
-# [Question 3 - Profit Model for John](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/.questions/Global_Coding_Challenge_3.pdf)
+# Question 3 - Profit Model for John
 
 
 John has recently started stock trading. He has predicted share prices for a particular company, over the next N days. John wants to analyze this data to build a model which will predict the best day to buy and sell the shares to achieve a specific profit. If there are multiple approaches of buying and selling shares to achieve this profit, John would like to know which of these will achieve the profit the earliest.

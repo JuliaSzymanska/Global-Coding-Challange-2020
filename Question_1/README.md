@@ -1,4 +1,4 @@
-# [Question 1 - Profit Maximization](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/.questions/Global_Coding_Challenge_1.pdf)
+# Question 1 - Profit Maximization
 
 Emilia, a quantitative researcher, predicts how the closing share price of a stock moves over time.
 
