@@ -5,3 +5,6 @@
 
 Third place on the European Leaderboard.
 
+<div align="center">
+    <img src="https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/.github/European_Leaderboard.png" alt="result_page" >
+</div>
