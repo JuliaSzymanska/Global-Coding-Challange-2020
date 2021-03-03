@@ -1,7 +1,24 @@
 # :computer: Global Coding Challange 2020
-#### This repository contains all solutions to the Global Coding Challange 2020 created by Credit Suisse. 
 
-## :trophy: Results
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-finished-success.svg)]()
+</div>
+
+---
+
+## 📝 Table of Contents
+
+- [About](#about)
+- [Results](#results)
+- [Questions](#questions)
+- [Authors](#authors)
+
+## 🧐 About <a name = "about"></a>
+This repository contains all solutions to the Global Coding Challange 2020 created by Credit Suisse. 
+
+
+## :trophy: Results <a name = "results"></a>
 
 Third place on the European Leaderboard.
 
@@ -9,7 +26,9 @@ Third place on the European Leaderboard.
     <img src="https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/.github/European_Leaderboard.png" alt="result_page" >
 </div>
 
-## :question: Questions
+
+
+## :question: Questions <a name = "questions"></a>
 
 - [Question 1](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/Question_1/README.md)
 - [Question 2](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/Question_2/README.md)
@@ -20,3 +39,7 @@ Third place on the European Leaderboard.
 - [Question 7](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/Question_7/README.md)
 - [Question 8](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/Question_8/README.md)
 - [Question 9](https://github.com/JuliaSzymanska/Global_Coding_Challange_2020/blob/master/Question_9/README.md)
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@JuliaSzymanska](https://github.com/JuliaSzymanska) - Solutions
